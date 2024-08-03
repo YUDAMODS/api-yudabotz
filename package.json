@@ -1,6 +1,6 @@
 {
   "name": "api-yudabotz",
-  "version": "2.0.0",
+  "version": "0.1.0",
   "description": "Rest api update by YUDAMODS",
   "main": "index.js",
   "scripts": {
@@ -55,7 +55,7 @@
     "qs": "^6.10.1",
     "request": "^2.88.2",
     "spinnies": "^0.5.1",
-    "ssl-express-www": "^3.2.1"
+    "ssl-express-www": "^3.2.1",
     "urlencode": "^1.1.0"
   },
   "homepage": "https://github.com/YUDAMODS/api-yudabotz#readme"
